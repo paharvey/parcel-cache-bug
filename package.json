@@ -1,0 +1,12 @@
+{
+  "name": "test-case",
+  "version": "1.0.0",
+  "source": "src/index.js",
+  "dependencies": {
+    "lodash-es": "*"
+  },
+  "devDependencies": {
+    "@parcel/config-default": "^2.9.3",
+    "parcel": "2.9.3"
+  }
+}
