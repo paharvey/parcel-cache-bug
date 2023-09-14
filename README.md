@@ -1,7 +1,7 @@
 This repository demonstrates a Parcel issue where **later builds report errors
 from a previous build**, even if they've been fixed.
 
-Testing suggests that the issue does not occur in 2.0.0-nightly.1265 (2023-03-26)
+Testing suggests that the issue does not occur in 2.0.0-nightly.1265 (2023-03-25)
 but does occur in 2.0.0-nightly.1271 (2023-03-27).
 
 The necessary JavaScript code has been made as minimal as possible:
